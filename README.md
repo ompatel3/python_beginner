@@ -1,3 +1,4 @@
 # python_beginner
-content from the book Head First Python c1-c8
-content from the book learning python c9-c...
+Content from the book "Head First Python c1-c8"
+
+Content from the book "Learning python c9-c..."
